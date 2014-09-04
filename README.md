@@ -3,7 +3,7 @@ battleship
 
 Battleship game written in python3
 
-This code is one of the lesson from codecademy. I've added the battleship position to be shown at the end of the game.
+This code is one of the lessons from Codecademy.com. I've added the battleship position to be shown at the end of the game.
 
 Ideas from the Codecademy to furder development of the script:
 
